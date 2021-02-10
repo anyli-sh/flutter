@@ -878,5 +878,5 @@ const double _minRailWidth = 72.0;
 const double _minExtendedRailWidth = 256.0;
 const double _horizontalDestinationPadding = 8.0;
 const double _verticalDestinationPaddingNoLabel = 24.0;
-const double _verticalDestinationPaddingWithLabel = 16.0;
+const double _verticalDestinationPaddingWithLabel = 6.0;
 const Widget _verticalSpacer = SizedBox(height: 8.0);
